@@ -1,0 +1,75 @@
+{
+    "professors": [
+      {
+        "name": "Dr. Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "university": "University of Science",
+        "researchInterest": "Artificial Intelligence",
+        "sdgFocus": ["4", "9"]
+      },
+      {
+        "name": "Prof. Robert Smith",
+        "email": "robert.smith@example.com",
+        "university": "Global University",
+        "researchInterest": "Environmental Science",
+        "sdgFocus": ["13", "15"]
+      },
+      {
+        "name": "Dr. Emily Brown",
+        "email": "emily.brown@example.com",
+        "university": "Tech Institute",
+        "researchInterest": "Data Science",
+        "sdgFocus": ["8", "12"]
+      },
+      {
+        "name": "Prof. David Garcia",
+        "email": "david.garcia@example.com",
+        "university": "Innovation University",
+        "researchInterest": "Biotechnology",
+        "sdgFocus": ["2", "3"]
+      },
+      {
+        "name": "Dr. Maria Rodriguez",
+        "email": "maria.rodriguez@example.com",
+        "university": "Health Sciences College",
+        "researchInterest": "Public Health",
+        "sdgFocus": ["3", "5"]
+      },
+      {
+        "name": "Prof. James Lee",
+        "email": "james.lee@example.com",
+        "university": "Economics Academy",
+        "researchInterest": "Economic Policy",
+        "sdgFocus": ["1", "10"]
+      },
+      {
+        "name": "Dr. Sarah Clark",
+        "email": "sarah.clark@example.com",
+        "university": "Social Studies Institute",
+        "researchInterest": "Sociology",
+        "sdgFocus": ["16", "17"]
+      },
+      {
+        "name": "Prof. Michael Turner",
+        "email": "michael.turner@example.com",
+        "university": "Renewable Energy University",
+        "researchInterest": "Renewable Energy",
+        "sdgFocus": ["7", "11"]
+      },
+      {
+        "name": "Dr. Patricia Martin",
+        "email": "patricia.martin@example.com",
+        "university": "Education Hub",
+        "researchInterest": "Education Policy",
+        "sdgFocus": ["4", "8"]
+      },
+      {
+        "name": "Prof. Richard White",
+        "email": "richard.white@example.com",
+        "university": "Social Innovation Center",
+        "researchInterest": "Social Innovation",
+        "sdgFocus": ["9", "17"]
+      }
+    ]
+  }
+  
